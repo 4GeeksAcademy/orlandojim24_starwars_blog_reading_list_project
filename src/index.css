@@ -1,0 +1,49 @@
+.card {
+    min-width: 300px;
+    max-height: 490px;
+    margin-right: 10px;
+}
+
+.cards-container {
+    margin-top: 10px;
+}
+
+.btn-favorite {
+    color: rgb(230, 230, 81);
+    border-style: solid;
+    border-color: rgb(236, 236, 53);
+}
+
+.btn-favorite:hover {
+    background-color: rgb(231, 231, 56);
+
+}
+
+.btn-favorite:hover i {
+    font-weight: 900;
+    color: rgb(238, 238, 238);
+}
+
+.fa-heart.favorite {
+    color: rgb(231, 231, 54);
+}
+
+.col-details {
+    color: red;
+}
+
+.img-container {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+h3 {
+   color: rgb(233, 52, 52);
+}
